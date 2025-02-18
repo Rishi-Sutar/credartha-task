@@ -1,0 +1,16 @@
+transformers 
+datasets 
+torch 
+scikit-learn 
+fastapi 
+uvicorn 
+peft 
+bitsandbytes 
+accelerate 
+pandas 
+joblib
+nltk
+spacy
+wordnet
+python-dotenv
+azureml-core
