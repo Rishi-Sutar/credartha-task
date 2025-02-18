@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Projects/credarthanew/T_3/src/mlruns/249180639116391584/36c0cae22d51450491cd259cf0940a06/artifacts
+end_time: 1739856274833
+entry_point_name: ''
+experiment_id: '249180639116391584'
+lifecycle_stage: active
+run_id: 36c0cae22d51450491cd259cf0940a06
+run_name: Logistic Regression (RandomizedSearch)
+run_uuid: 36c0cae22d51450491cd259cf0940a06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739856247663
+status: 3
+tags: []
+user_id: Richie
